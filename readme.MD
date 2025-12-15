@@ -73,18 +73,17 @@ The primary purpose of building this project was to:
 Banking-System/
 │
 ├── Account.py # Account creation logic
-├── Balance_Enquiry.py # Balance check
+├── Balance_Enquiry.py # Balance enquiry functionality
 ├── Customer.py # Bank/Admin operations
 ├── CustomerInfo.py # Customer account details
-├── dbConnect.py # Database connection
+├── dbConnect.py # MySQL database connection
 ├── Deposit.py # Deposit functionality
-├── Exceptions.py # Custom exceptions
-├── Main.py  # Menu Funcatiolity
-├── Test.py # Application entry point
 ├── Withdraw.py # Withdraw functionality
 ├── Validations.py # Input validations
-
-
+├── Exceptions.py # Custom exception definitions
+├── Main.py # Menu-driven CLI functionality
+├── Test.py # Application entry point
+└── README.md # Project documentation
 
 ---
 
