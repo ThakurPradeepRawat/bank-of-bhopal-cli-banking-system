@@ -69,24 +69,6 @@ The primary purpose of building this project was to:
 
 ---
 
-## 📁 Project Structure
-Banking-System/
-│
-├── Account.py # Account creation logic
-├── Balance_Enquiry.py # Balance enquiry functionality
-├── Customer.py # Bank/Admin operations
-├── CustomerInfo.py # Customer account details
-├── dbConnect.py # MySQL database connection
-├── Deposit.py # Deposit functionality
-├── Withdraw.py # Withdraw functionality
-├── Validations.py # Input validations
-├── Exceptions.py # Custom exception definitions
-├── Main.py # Menu-driven CLI functionality
-├── Test.py # Application entry point
-└── README.md # Project documentation
-
----
-
 ## 🗄️ Database Schema
 
 ### Database: `Customer`
@@ -114,5 +96,5 @@ Banking-System/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/Thakur_Pradeep/banking-system.git
+git clone https://github.com/ThakurPradeepRawat/bank-of-bhopal-cli-banking-system
 cd banking-system
